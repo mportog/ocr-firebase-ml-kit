@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "359292410507",
-    "firebase_url": "https://ocr-with-firebase-ml-kit.firebaseio.com",
-    "project_id": "ocr-with-firebase-ml-kit",
-    "storage_bucket": "ocr-with-firebase-ml-kit.appspot.com"
+    "project_number": "1032608138496",
+    "project_id": "ml-kit-c0366",
+    "storage_bucket": "ml-kit-c0366.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:359292410507:android:6943516b2e8125ac4fd28e",
+        "mobilesdk_app_id": "1:1032608138496:android:18a847721acaa6a2aa1fe5",
         "android_client_info": {
-          "package_name": "com.example.ocr"
+          "package_name": "com.lentimosystems.mobivisionkt"
         }
       },
       "oauth_client": [
         {
-          "client_id": "359292410507-0ab8uu1kep2v2ip2kn0nq4250569n7n1.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.ocr",
-            "certificate_hash": "97c3c3dcab3c7d159dea9e0eca256673dd09ede5"
-          }
-        },
-        {
-          "client_id": "359292410507-qfm1a640o2las5dv658i3klq2bta5c9b.apps.googleusercontent.com",
+          "client_id": "1032608138496-5n7dbmi0fvi8q451mes7u1adprq5bit1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBTHJQKoTs33V_ziaWDWLB5wbgIrlf_y1g"
+          "current_key": "AIzaSyC-BJyA2ERREV3EcTff1NjUj5lIhcs-b4w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "359292410507-qfm1a640o2las5dv658i3klq2bta5c9b.apps.googleusercontent.com",
+              "client_id": "1032608138496-5n7dbmi0fvi8q451mes7u1adprq5bit1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

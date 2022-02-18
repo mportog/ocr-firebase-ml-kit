@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-vision-face-contour-internal:16.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4df05e4530758eebe5821e7b2a85a752/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4df05e4530758eebe5821e7b2a85a752/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4df05e4530758eebe5821e7b2a85a752/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">OCR</string>
+    <string name="app_name">ML Kit Codelab</string>
+    <string name="select_image_for_text_recognition">Selecionar imagem</string>
+    <string name="find_text_button">Encontrar marcas</string>
+    <string name="find_text_cloud_button">Encontrar texto (cloud)</string>
+    <string name="find_objects_button">Encontrar Objetos</string>
 </resources>

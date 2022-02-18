@@ -1,0 +1,19 @@
+
+T
+java:S1155„">Use isEmpty() to check whether the collection is empty or not.(ýæ´D
+O
+java:S11286"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑþøÿÿÿÿ
+c
+java:S1128+"MRemove this unused import 'com.google.mlkit.vision.face.FaceDetectorOptions'.(Åå–¼
+b
+java:S1128)"GRemove this unused import 'com.google.mlkit.vision.face.FaceDetection'.(ªûþÿÿÿÿ
+E
+java:S11285"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+S
+java:S1128(">Remove this unused import 'com.google.mlkit.vision.face.Face'.(òÉÚV
+a
+java:S1128*"FRemove this unused import 'com.google.mlkit.vision.face.FaceDetector'.(©ÄÞ§ûÿÿÿÿ
+G
+java:S11283"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+V	java:S125"<This block of commented-out lines of code should be removed.(Åñ¥Éùÿÿÿÿ
+=	java:S131È""Add a default case to this switch.(¼œóÛüÿÿÿÿ
